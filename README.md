@@ -2,7 +2,7 @@
 
 Manipulate with data in one buffer
 
-# Import
+# Import (gradle)
 ```groovy
 repositories {
   // ...
