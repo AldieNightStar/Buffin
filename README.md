@@ -5,10 +5,10 @@ Manipulate with data in one buffer
 # Import (gradle)
 ```groovy
 repositories {
-  // ...
+    // ...
   
-  // Add this line down below
-  maven { url 'https://jitpack.io' }
+    // Add this line down below
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
