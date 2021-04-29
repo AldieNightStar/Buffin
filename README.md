@@ -2,6 +2,23 @@
 
 Manipulate with data in one buffer
 
+# Import
+```groovy
+repositories {
+  // ...
+  
+  // Add this line down below
+  maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    // ...
+    
+    // Add this line down below
+		implementation 'com.github.AldieNightStar:Buffin:b66d4d9215'
+}
+```
+
 # Usage
 ```java
 // Constructors
