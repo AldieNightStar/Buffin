@@ -15,7 +15,7 @@ dependencies {
     // ...
     
     // Add this line down below
-		implementation 'com.github.AldieNightStar:Buffin:b66d4d9215'
+    implementation 'com.github.AldieNightStar:Buffin:b66d4d9215'
 }
 ```
 
